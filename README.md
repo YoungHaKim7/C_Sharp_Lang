@@ -213,7 +213,7 @@ https://docs.microsoft.com/ko-kr/dotnet/core/tools/dotnet
 # C# Tutorial
 
 
-- Use F# on macOS
+- Use C# on macOS
 
 ```
 brew install dotnet
