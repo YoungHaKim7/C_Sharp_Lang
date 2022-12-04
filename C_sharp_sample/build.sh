@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm -rf bin obj *.csproj
+dotnet new console --language C# --force
