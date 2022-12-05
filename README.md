@@ -49,6 +49,13 @@ class Hello
 
 <hr>
 
+# Vim omnicompletion (intellisense) and more for C#
+
+https://github.com/OmniSharp/omnisharp-vim
+
+<br>
+
+<hr>
 
 # Learning C#
 
