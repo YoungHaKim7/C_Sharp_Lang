@@ -144,6 +144,57 @@ https://github.com/OmniSharp/omnisharp-vim
 
 <br>
 
+# coc-omnisharp
+⛔ This project is lacking proper maintanence. I would recommend csharp-ls at this moment.
+I may work on the integration of csharp-ls in the future, but now please manually set it up.
+
+```
+dotnet tool install --global csharp-ls
+
+```
+
+```
+:CocConfig
+
+
+{
+    "languageserver": {
+        "csharp-ls": {
+          "command": "csharp-ls",
+          "filetypes": ["cs"],
+          "rootPatterns": ["*.csproj", ".vim/", ".git/", ".hg/"]
+        }
+    }
+}
+
+```
+
+=== Original README below ===
+
+A vim plugin powered by OmniSharp and coc.nvim.
+
+Prerequisites
+Vim 8.0+ or NeoVim
+dotnet
+coc.nvim
+Installation
+coc-omnisharp is an extension for coc.nvim. You can install coc.nvim with a plugin manager like vim-plug:
+```
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Then, use :CocInstall coc-omnisharp to install.
+
+```
+
+Alternatively, you can have coc.nvim automatically install the extension if it's missing:
+
+```
+let g:coc_global_extensions=[ 'coc-omnisharp', ... ]
+```
+
+Configuration
+
+https://github.com/coc-extensions/coc-omnisharp
+
 <hr>
 
 # Learning C#
