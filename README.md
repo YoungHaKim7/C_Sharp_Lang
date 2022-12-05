@@ -30,7 +30,25 @@ Hello, world C#
 
 <br>
 
+- hello.cs
+
+```
+
+using System;
+
+class Hello
+{
+	static void Main()
+	{
+		Console.WriteLine("Hello, world C# ");
+	}
+}
+
+```
+
+
 <hr>
+
 
 # Learning C#
 
