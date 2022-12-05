@@ -3,3 +3,6 @@ string firstFriend = "Maria";
 string sencondFriend = "Sage";
 Console.WriteLine("My friend ar {firstFriend} and {sencondFriend}");
 
+
+
+
