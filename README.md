@@ -197,6 +197,37 @@ https://github.com/coc-extensions/coc-omnisharp
 
 <hr>
 
+# My_Setting (:CocConfig)
+
+```
+{
+    // rust-analyzer.procMacro.enable=true,
+    // rust-analyzer.inlayHints.typeHints.enable=true,
+      "rust-analyzer.inlayHints.enable": true,
+      "rust-analyzer.cargo.loadOutDirsFromCheck": true,
+      "rust-analyzer.procMacro.enable": true,
+
+    "languageserver": {
+        "csharp-ls": {
+          "command": "csharp-ls",
+          "filetypes": ["cs"],
+          "rootPatterns": ["*.csproj", ".vim/", ".git/", ".hg/"]
+        }
+    },
+
+      "ada.serverBin": "ada_language_server", // must be in the path, otherwise use full path to the binary
+      "ada.enabled": true,
+      "ada.trace.server": "off",
+      "ada.projectFile": "", // See below
+      "ada.scenarioVariables": {},
+      "ada.defaultCharset":  "iso-8859-1",
+      "ada.displayMethodAncestryOnNavigation": "usage_and_abstract_only", // never | usage_and_abstract_only | definition_only | always
+      "ada.enableDiagnostics": true,
+      "ada.renameInComments": false
+}
+
+```
+
 # Learning C#
 
 - Korean
