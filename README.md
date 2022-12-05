@@ -54,10 +54,13 @@ class Hello
 Example vimrc
 Below is an example .vimrc for getting started with OmniSharp-vim. For a more complete example with autocompletion, fzf integration, statusline indicators etc., have a look at the Example config in the wiki.
 
+<br>
+
 ```
 " Use the vim-plug plugin manager: https://github.com/junegunn/vim-plug
 " Remember to run :PlugInstall when loading this vimrc for the first time, so
 " vim-plug downloads the plugins listed.
+
 silent! if plug#begin('~/.vim/plugged')
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'dense-analysis/ale'
