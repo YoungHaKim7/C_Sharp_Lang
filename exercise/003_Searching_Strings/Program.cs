@@ -6,3 +6,5 @@ Console.WriteLine("My friend ar {firstFriend} and {sencondFriend}");
 
 
 
+
+
