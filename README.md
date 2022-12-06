@@ -1,3 +1,17 @@
+# C# 키워드 - C_Sharp_Referece_Documentation
+
+https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/
+
+- C# Language Referece
+
+https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/
+
+- C# documentation
+
+https://learn.microsoft.com/en-us/dotnet/csharp/
+
+<br>
+
 # Visual Studio for Mac IDE tour
 
 https://learn.microsoft.com/en-us/visualstudio/mac/ide-tour?view=vsmac-2022
