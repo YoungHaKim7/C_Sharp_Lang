@@ -18,6 +18,61 @@ https://learn.microsoft.com/en-us/visualstudio/mac/ide-tour?view=vsmac-2022
 
 <br>
 
+# C# 기본 틀
+
+```
+// console 만들기 
+dotnet new console --language C#
+
+// 실행하기 
+dotnet run
+```
+
+```
+
+tree
+.
+├── A003_Searching_strings.csproj
+├── Program.cs
+└── delete.sh
+
+
+```
+
+
+- Program.cs
+
+```
+// See https://aka.ms/new-console-template for more information
+using System;
+
+namespace A003_Searching_strings
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      string firstFriend = "Maria";
+      string sencondFriend = "Sage";
+      Console.WriteLine("My friend ar {firstFriend} and {sencondFriend}");
+    }
+  }
+}
+
+// result :  
+// My friend ar {firstFriend} and {sencondFriend}
+
+```
+
+- C# for Beginners
+
+
+https://youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN
+
+<br>
+
+<hr>
+
 # csc.exe 컴파일 하기 (WindowsOS 기준)
 
 - C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe hello.cs
