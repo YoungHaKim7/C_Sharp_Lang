@@ -56,15 +56,21 @@ namespace A003_Searching_strings
     {
       string firstFriend = "Maria";
       string sencondFriend = "Sage";
-      Console.WriteLine("My friend ar {firstFriend} and {sencondFriend}");
+      Console.WriteLine($"My friend are {firstFriend} and {sencondFriend}");
     }
   }
 }
 
 // result :  
-// My friend ar {firstFriend} and {sencondFriend}
+// My friend ar Maria and Sage
 
 ```
+
+https://blockdmask.tistory.com/359
+
+[C#] string format, 문자열 보간($)을 이용한 문자열 출력방법
+
+<br>
 
 - C# for Beginners
 

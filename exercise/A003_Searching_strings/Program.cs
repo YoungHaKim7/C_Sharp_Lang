@@ -9,10 +9,10 @@ namespace A003_Searching_strings
     {
       string firstFriend = "Maria";
       string sencondFriend = "Sage";
-      Console.WriteLine("My friend ar {firstFriend} and {sencondFriend}");
+      Console.WriteLine($"My friend are {firstFriend} and {sencondFriend}");
     }
   }
 }
 
 // result :  
-// My friend ar {firstFriend} and {sencondFriend}
+// My friend are Maria and Sage
