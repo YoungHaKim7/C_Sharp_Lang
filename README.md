@@ -20,6 +20,8 @@ https://learn.microsoft.com/en-us/visualstudio/mac/ide-tour?view=vsmac-2022
 
 # C# 기본 틀
 
+- C_Sharp_Lang/exercise/A003_Searching_strings/
+
 ```
 // console 만들기 
 dotnet new console --language C#
