@@ -311,6 +311,25 @@ https://github.com/coc-extensions/coc-omnisharp
 
 ```
 
+<br>
+
+<hr>
+
+# Github는 왜 기본 gitignore 파일에 C#을 지원해주지 않을까요?
+
+https://forum.dotnetdev.kr/t/github-gitignore-c/487/2
+
+<br>
+
+- 단서 2
+
+https://www.toptal.com/developers/gitignore/api/csharp
+
+
+<br>
+
+<hr>
+
 # Learning C#
 
 - Korean
