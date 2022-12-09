@@ -34,6 +34,15 @@ https://aka.ms/dotnet-cli
 
 <br>
 
+# Microsoft. NET SDK 7.0.100 Choco install
+
+```
+> choco install dotnet-sdk
+
+```
+
+<br>
+
 # Get started vscos c# net Core Windows OS
 
 - 1로 설치하면됨
