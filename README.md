@@ -26,7 +26,11 @@ https://github.com/dotnet/core
 
 <br>
 
-사용 가능한 명령을 보려면 'dotnet --help'를 사용하거나 https://aka.ms/dotnet-cli를 방문하세요.
+사용 가능한 명령을 보려면 'dotnet --help'를 사용하거나 
+
+https://aka.ms/dotnet-cli
+
+를 방문하세요.
 
 <br>
 
