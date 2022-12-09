@@ -1,5 +1,13 @@
 # Get started vscos c# net Core Windows OS
 
+- 1로 설치하면됨
+
+https://learn.microsoft.com/ko-kr/dotnet/core/install/windows?tabs=net70
+
+<br>
+
+- 설치 설명서 
+
 https://learn.microsoft.com/en-us/shows/dotnet/get-started-vscode-csharp-net-core-windows
 
 <br>
