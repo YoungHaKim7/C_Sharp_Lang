@@ -1,3 +1,13 @@
+# Get started vscos c# net Core Windows OS
+
+https://learn.microsoft.com/en-us/shows/dotnet/get-started-vscode-csharp-net-core-windows
+
+<br>
+
+<hr>
+
+
+
 # C# 키워드 - C_Sharp_Referece_Documentation
 
 https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/
