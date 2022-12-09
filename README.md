@@ -647,4 +647,94 @@ https://youtube.com/playlist?list=PLZPZq0r_RZOPNy28FDBys3GVP2LiaIyP_
 
 <hr>
 
-# C_Sharp_Lang
+# Rust vs C# primitive type
+
+- 영어 출처
+https://learn.microsoft.com/en-us/dotnet/api/system.type.isprimitive?view=net-7.0
+
+<br>
+
+<table border="1">
+    <tr>
+    <td colspan="3" align="center">Rust vs C#</td>
+    </tr>
+    <tr align="center">
+        <td>분류(Type) </td>
+        <td>Rust</td>
+        <td>C# </td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>8bit</td>
+        <td>i8</td>
+        <td>sbyte</td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>16bit</td>
+        <td>i16</td>
+        <td>short</td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>32bit</td>
+        <td>i32</td>
+        <td>int</td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>64bit</td>
+        <td>i64</td>
+        <td>long</td>
+    </tr>
+    <tr align="center">
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>8bit</td>
+        <td>u8</td>
+        <td>byte</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>16bit</td>
+        <td>u16</td>
+        <td>ushort</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>32bit</td>
+        <td>u32</td>
+        <td>uint</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>64bit</td>
+        <td>u64</td>
+        <td>ulong</td>
+    </tr>
+    <tr align="center">
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+    </tr>
+    <tr align="center">
+        <td>floating point<br>부동 소수점<br>32 bit</td>
+        <td>f32</td>
+        <td>float</td>
+    </tr>
+    <tr align="center">
+        <td>floating point<br>부동 소수점<br>64 bit</td>
+        <td>f64</td>
+        <td>double</td>
+    </tr>
+    <tr align="center">
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+    </tr>
+    <tr align="center">
+        <td>Decimal<br>128 bit</td>
+        <td>f128</td>
+        <td>decimal</td>
+    </tr>
+</table>
+
+<hr>
+
+<br>
