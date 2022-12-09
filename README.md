@@ -1,3 +1,35 @@
+#  dotnet 기초 상식
+
+첫 번째 앱 작성: 
+
+https://aka.ms/dotnet-hello-world
+
+<br>
+
+새로운 기능 확인: 
+
+https://aka.ms/dotnet-whats-new
+
+<br>
+
+설명서 살펴보기: 
+
+https://aka.ms/dotnet-docs
+
+<br>
+
+GitHub에서 문제 보고 및 소스 찾기: 
+
+https://github.com/dotnet/core
+
+<br>
+
+<br>
+
+사용 가능한 명령을 보려면 'dotnet --help'를 사용하거나 https://aka.ms/dotnet-cli를 방문하세요.
+
+<br>
+
 # Get started vscos c# net Core Windows OS
 
 - 1로 설치하면됨
