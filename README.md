@@ -32,6 +32,10 @@ https://aka.ms/dotnet-cli
 
 를 방문하세요.
 
+- dotnet sln
+
+https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-sln
+
 <br>
 
 # Microsoft. NET SDK 7.0.100 Choco install
