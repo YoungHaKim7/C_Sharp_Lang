@@ -791,3 +791,11 @@ https://docs.rs/fsize/latest/fsize/
 <hr>
 
 <br>
+
+#  한글_씨샵&_에프_ #C# & F# 강의_001⭐️Hello World C#_F# LunarVim_Demo_Vim_macOS_M1_pro #csharp #fsharp
+
+https://youtu.be/bhrU4B1-yeg
+
+<br>
+
+<hr>
