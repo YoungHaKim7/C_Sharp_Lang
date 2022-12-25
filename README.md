@@ -1,3 +1,17 @@
+# Complete Beginner Courses | C# Tutorial for Beginners | Learn the Basics of C# programming 🖥️ Csharp Tutorial for Beginners | tutorialsEU
+
+https://youtu.be/UKaZ2S4AJAA
+
+<br>
+
+# Complete Beginner Courses
+
+https://youtube.com/playlist?list=PLwhVruPHD9rxZ9U5K6vqUFkfrjaRhwEsV
+
+<br>
+
+<hr>
+
 #  dotnet 기초 상식
 
 첫 번째 앱 작성: 
