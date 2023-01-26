@@ -1,0 +1,33 @@
+# Source 
+
+
+https://www.includehelp.com/dot-net/Int64-and-UInt64-in-c-sharp.aspx
+
+
+# Result : 
+
+```
+
+$ dotnet run
+
+Int64 value capacity...
+Min: -9223372036854775808, Max: 9223372036854775807
+
+UInt64 value capacity...
+Min: 0, Max: 18446744073709551615
+
+UInt64 array elements...
+-9223372036854775808
+0
+1287822320009
+9223372036854700000
+9223372036854775807
+
+UInt64 array elements...
+0
+1239289300
+2399900900022
+18446744073709000000
+1844674407370955161
+
+```
