@@ -5,6 +5,7 @@ https://economiceco.tistory.com/m/16241
 
 https://devblogs.microsoft.com/dotnet/blazor-aspnet-webforms-ebook/
 
+- https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/
 
 # 24hr) Create a C# Application from Start to Finish - Complete Course 
 
