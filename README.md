@@ -1,6 +1,10 @@
 C# 언어의 꽃🌹❤️링큐 LINQ & C#의 창시자, 앤더스 하일스버그(아네르스 하일스베르(덴마크어: Anders Hejlsberg) - 
 https://economiceco.tistory.com/m/16241
 
+#  Free e-book: Blazor for ASP.NET Web Forms Developers (MicroSoft)
+
+https://devblogs.microsoft.com/dotnet/blazor-aspnet-webforms-ebook/
+
 
 # 24hr) Create a C# Application from Start to Finish - Complete Course 
 
