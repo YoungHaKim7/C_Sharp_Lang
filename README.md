@@ -3,7 +3,7 @@ https://economiceco.tistory.com/m/16241
 
 <hr>
 
-# Rust for C#/.NET Developers
+# Rust for C#/.NET Developers(Tutorial eBook🖼💻📖)
 
 https://microsoft.github.io/rust-for-dotnet-devs/latest/
 
