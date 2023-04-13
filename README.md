@@ -31,6 +31,10 @@ https://youtu.be/UKaZ2S4AJAA
 
 https://youtube.com/playlist?list=PLwhVruPHD9rxZ9U5K6vqUFkfrjaRhwEsV
 
+# C# (LeetCodeNet) Training 👍
+
+https://github.com/kulikov-dev/LeetCodeNet
+
 <br>
 
 <hr>
