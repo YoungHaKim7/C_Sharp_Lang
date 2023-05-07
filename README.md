@@ -840,3 +840,10 @@ https://youtu.be/bhrU4B1-yeg
 <br>
 
 <hr>
+
+
+<br>
+
+# dotnet 활용법 외국의 블로그
+
+https://andrewlock.net/how-to-stop-visual-studio-from-creating-launchsettings-json/
