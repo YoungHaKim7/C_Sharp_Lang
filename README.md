@@ -1,6 +1,8 @@
 C# 언어의 꽃🌹❤️링큐 LINQ & C#의 창시자, 앤더스 하일스버그(아네르스 하일스베르(덴마크어: Anders Hejlsberg) - 
 https://economiceco.tistory.com/m/16241
 
+https://learn.microsoft.com/ko-kr/dotnet/api/system.linq?view=net-7.0
+
 <hr>
 
 # Rust for C#/.NET Developers(<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>Tutorial<a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a> eBook🖼💻📖)
