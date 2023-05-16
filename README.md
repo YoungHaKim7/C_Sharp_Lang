@@ -126,6 +126,11 @@ https://learn.microsoft.com/en-us/dotnet/csharp/
 
 https://learn.microsoft.com/en-us/visualstudio/mac/ide-tour?view=vsmac-2022
 
+
+# C# Cheat Sheets
+
+https://cheatography.com/ziggiboy/cheat-sheets/c/
+
 <br>
 
 # C# 기본 틀
