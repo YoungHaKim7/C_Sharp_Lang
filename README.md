@@ -1,7 +1,16 @@
-C# 언어의 꽃🌹❤️링큐 LINQ & C#의 창시자, 앤더스 하일스버그(아네르스 하일스베르(덴마크어: Anders Hejlsberg) - 
+# C# 언어의 꽃🌹❤️링큐 LINQ & C#의 창시자, 앤더스 하일스버그(아네르스 하일스베르(덴마크어: Anders Hejlsberg) - 
+
 https://economiceco.tistory.com/m/16241
 
 https://learn.microsoft.com/ko-kr/dotnet/api/system.linq?view=net-7.0
+
+# C#의 창시자 & TypeScript 창시자  , 앤더스 헤일즈버그 (Anders Hejlsberg
+
+https://www.csharpstudy.com/Story/Article/2
+
+https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4
+
+<br>
 
 <hr>
 
