@@ -14,6 +14,10 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 
 <hr>
 
+# Configure Keyboard Shortcuts:(Visual Studio)
+
+- Tools -> Options; Environment -> Keyboard
+
 # [개발도구 꿀팁] Visual Studio 에서 Git 사용하는 방법 (기초)
 https://youtu.be/aG0zuM8XuP4
 
