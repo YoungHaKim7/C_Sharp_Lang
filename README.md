@@ -19,6 +19,15 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 - Tools -> Options; Environment -> Keyboard
   - https://visualstudio.microsoft.com/keyboard-shortcuts.pdf
 
+- If you want to edit the shortcut of quick fix
+  - https://stackoverflow.com/questions/9786144/visual-studio-shortcut-for-quick-fix
+```
+if you want to edit the shortcut of quick fix you can do the following: Open Tools->Options->Keyboard and in the Show commands containing field enter EditorContextMenus.CodeWindow.QuickActionsForPosition and replace the old shortcut with the new one.
+```
+
+- Learn C# (Visual Stuio)
+  - https://learn.microsoft.com/ko-kr/visualstudio/ide/not-in-toc/welcome-to-visual-studio-docs?view=vs-2022&f1url=%3FappId%3DDev16IDEF1%26l%3DKO-KR%26k%3Dk(vs.ViewHelp)%3Bk(DevLang-csharp)%26rd%3Dtrue
+
 # [개발도구 꿀팁] Visual Studio 에서 Git 사용하는 방법 (기초)
 https://youtu.be/aG0zuM8XuP4
 
