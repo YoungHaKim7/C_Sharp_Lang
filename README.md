@@ -22,7 +22,12 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 - If you want to edit the shortcut of quick fix
   - https://stackoverflow.com/questions/9786144/visual-studio-shortcut-for-quick-fix
 ```
-if you want to edit the shortcut of quick fix you can do the following: Open Tools->Options->Keyboard and in the Show commands containing field enter EditorContextMenus.CodeWindow.QuickActionsForPosition and replace the old shortcut with the new one.
+if you want to edit the shortcut of quick fix you can do the following:
+ Open Tools->Options
+->Keyboard
+and in the Show commands containing field enter EditorContextMenus.CodeWindow.QuickActionsForPosition
+
+and replace the old shortcut with the new one.
 ```
 
 - Learn C# (Visual Stuio)
