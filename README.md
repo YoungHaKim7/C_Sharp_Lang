@@ -25,6 +25,12 @@ https://docs.wholetomato.com/default.asp?W375
 
 https://www.youtube.com/playlist?list=PLReL099Y5nRc-zbaFbf0aNcIamBQujOxP
 
+# Keyboard shortcuts in Visual Studio
+
+https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022&utm_source=vshelp&wt.mc_id=visualstudio_inproduct_shortcuts_csaapp
+
+<hr>
+
 <hr>
 
 # Rust for C#/.NET Developers(<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>Tutorial<a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a> eBook🖼💻📖)
