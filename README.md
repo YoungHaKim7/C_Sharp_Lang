@@ -17,6 +17,10 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 # [개발도구 꿀팁] Visual Studio 에서 Git 사용하는 방법 (기초)
 https://youtu.be/aG0zuM8XuP4
 
+# Visual Assist supports keyboard access to all of its features. (Visual Studio Plugin _ VAssistX | Help | Keyboard Shortcuts.)
+
+https://docs.wholetomato.com/default.asp?W375
+
 <hr>
 
 # Rust for C#/.NET Developers(<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>Tutorial<a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a> eBook🖼💻📖)
