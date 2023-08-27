@@ -14,6 +14,20 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 
 <hr>
 
+# 상단에 숨겨진 Using 보이게 세팅하기
+
+- So you could add your own namespaces if you like.
+- To disable implicit global usings, that is the generation of the <projectname>.GlobalUsings.g.cs file, set the ImplicitUsings property to disable in your csproj file:
+
+```
+<PropertyGroup>
+    <ImplicitUsings>disable</ImplicitUsings>
+</PropertyGroup>
+
+```
+
+https://stackoverflow.com/questions/74826313/how-to-show-all-using-directives-visual-studio-2022
+
 # Configure Keyboard Shortcuts:(Visual Studio)
 
 - Tools -> Options; Environment -> Keyboard
