@@ -52,6 +52,15 @@ and replace the old shortcut with the new one.
 - Learn C# (Visual Stuio)
   - https://learn.microsoft.com/ko-kr/visualstudio/ide/not-in-toc/welcome-to-visual-studio-docs?view=vs-2022&f1url=%3FappId%3DDev16IDEF1%26l%3DKO-KR%26k%3Dk(vs.ViewHelp)%3Bk(DevLang-csharp)%26rd%3Dtrue
 
+<hr>
+
+# VS Code Extension(C# Dev Kit)
+
+https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
+
+<hr>
+
+
 # .gitignore C#(Visual Studio)
 
 ```
