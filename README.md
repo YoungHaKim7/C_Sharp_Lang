@@ -25,6 +25,11 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 </PropertyGroup>
 
 ```
+- *.csproj (이 파일에서 세팅해주면 된다.)
+- 한참을 찾았다. C#은 왜 숨기는걸 왜케 좋아하는지 모르겠다. 다 숨긴다...
+- https://www.hanselman.com/blog/implicit-usings-in-net-6
+- https://twitter.com/okyrylchuk/status/1441432245932380161
+
 
 https://stackoverflow.com/questions/74826313/how-to-show-all-using-directives-visual-studio-2022
 
