@@ -1,3 +1,12 @@
+# Linux(Ubuntu)
+
+```bash
+sudo apt install dotnet7
+```
+
+
+<hr>
+
 # dotnet new
 
 ```
