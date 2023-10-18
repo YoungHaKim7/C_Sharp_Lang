@@ -7,6 +7,7 @@ echo "# A collection of useful .gitignore templates " >> .gitignore &&
 echo "# https://github.com/github/gitignore\xa" >> .gitignore &&
 echo "# General" >> .gitignore &&
 echo ".DS_Store" >> .gitignore &&
+echo "" >> .gitignore &&
 echo "# Build results" >> .gitignore &&
 echo "bin/" >> .gitignore &&
 echo "obj" >> .gitignore &&
@@ -30,5 +31,6 @@ echo "\x09\x09echo \x22    }\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22  }\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22}\x22 >> Program.cs" >> Makefile
 ```
+
 
 
