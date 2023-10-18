@@ -4,7 +4,7 @@
 echo "r:\xa\x09\x09dotnet run" >> Makefile &&
 
 echo "clean:" >> Makefile &&
-echo "\x09\x09rm -rf obj bin *.csproj" >> Makefile &&
+echo "\x09\x09rm -rf obj bin" >> Makefile &&
 echo "init:\xa" >> Makefile &&
 echo "\x09\x09dotnet new console --language C#" >> Makefile &&
 echo "\x09\x09echo \x22using System;\x22 >> Program.cs" >> Makefile &&

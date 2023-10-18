@@ -1,7 +1,7 @@
 r:
 		dotnet run
 clean:
-		rm -rf obj bin *.csproj
+		rm -rf obj bin
 init:
 
 		dotnet new console --language C#
