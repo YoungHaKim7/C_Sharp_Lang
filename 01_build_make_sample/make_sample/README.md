@@ -1,4 +1,4 @@
-# Make sample
+# Make sample(C# donnet)
 
 ```Makefile
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
@@ -26,7 +26,7 @@ echo "\x09\x09echo \x22  class Program\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22  {\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22    static void Main(string[] args)\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22    {\x22 >> Program.cs" >> Makefile &&
-echo "\x09\x09echo \x22      Console.WriteLine(\\\x22Hello World C_Sharp\\\x22);\x22 >> Program.cs" >> Makefile &&
+echo "\x09\x09echo \x22      Console.WriteLine(\\\"Hello World C_Sharp\\\");\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22    }\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22  }\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22}\x22 >> Program.cs" >> Makefile
@@ -34,8 +34,3 @@ echo "\x09\x09echo \x22}\x22 >> Program.cs" >> Makefile
 
 
 
-# Result
-
-```
-
-```

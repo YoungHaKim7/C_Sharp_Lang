@@ -13,7 +13,7 @@ init:
 		echo "  {" >> Program.cs
 		echo "    static void Main(string[] args)" >> Program.cs
 		echo "    {" >> Program.cs
-		echo "      Console.WriteLine(\x22Hello World C_Sharp\x22);" >> Program.cs
+		echo "      Console.WriteLine(\"Hello World C_Sharp\");" >> Program.cs
 		echo "    }" >> Program.cs
 		echo "  }" >> Program.cs
 		echo "}" >> Program.cs
