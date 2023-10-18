@@ -1,6 +1,6 @@
 # Make sample
 
-```
+```Makefile
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
 
 echo "# A collection of useful .gitignore templates " >> .gitignore &&

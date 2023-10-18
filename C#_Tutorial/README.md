@@ -27,6 +27,8 @@ obj/
 
 # Makefile(C#)
 
+```Makefile
+
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
 
 echo "# A collection of useful .gitignore templates " >> .gitignore &&
@@ -56,6 +58,7 @@ echo "\x09\x09echo \x22      Console.WriteLine(\\\x22Hello World C_Sharp\\\x22);
 echo "\x09\x09echo \x22    }\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22  }\x22 >> Program.cs" >> Makefile &&
 echo "\x09\x09echo \x22}\x22 >> Program.cs" >> Makefile
+```
 
 
 <hr>
