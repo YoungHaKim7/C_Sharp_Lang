@@ -1,0 +1,6 @@
+# Result
+
+```
+>>> Hello, World C# <<<
+
+```
