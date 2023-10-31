@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" width="150px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
+</p>
+
+<hr>
+
 # C# 언어의 꽃🌹❤️링큐 LINQ & C#의 창시자, 앤더스 하일스버그(아네르스 하일스베르(덴마크어: Anders Hejlsberg) - 
 
 https://economiceco.tistory.com/m/16241
