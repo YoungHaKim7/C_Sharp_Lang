@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" width="150px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" width="120px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
 </p>
 
 <hr>
