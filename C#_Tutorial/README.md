@@ -97,3 +97,10 @@ https://youtube.com/playlist?list=PLcDvtJ2MXvhzBo1gbNJvh9IORAJ6gzn4X
 # WPF 기초 강의
 
 https://youtube.com/playlist?list=PLlrfTSXS0LLLVJM9KlOeRC1IlPmQzos5x
+
+# C sharp에서 \\쓰는 방법
+
+```cs
+string test = @" hello
+                world";
+```
