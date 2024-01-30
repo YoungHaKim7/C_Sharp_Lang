@@ -104,3 +104,12 @@ https://youtube.com/playlist?list=PLlrfTSXS0LLLVJM9KlOeRC1IlPmQzos5x
 string test = @" hello
                 world";
 ```
+
+```cs
+string loginQuery = @$"
+  Select a.member_name,
+  a.company_id,
+  a.member_id,
+  password from member as a
+  where a.email = '{email}'; ";
+```
