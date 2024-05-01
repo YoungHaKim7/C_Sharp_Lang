@@ -4,6 +4,13 @@
 
 <hr>
 
+# C#: 공부하기 좋은곳
+
+- https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp (영어; 한국어 번역은 기계번역, 퀄리티 낮음)
+
+<hr>
+
+
 # C# 언어의 꽃🌹❤️링큐 LINQ & C#의 창시자, 앤더스 하일스버그(아네르스 하일스베르(덴마크어: Anders Hejlsberg) - 
 
 - Microsoft의 LINQ설명
