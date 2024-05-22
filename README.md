@@ -8,6 +8,9 @@
 
 - https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp (영어; 한국어 번역은 기계번역, 퀄리티 낮음)
 
+- Model Binding in ASP.NET Core
+  - https://learn.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-8.0
+
 <hr>
 
 
