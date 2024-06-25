@@ -4,6 +4,13 @@
 
 <hr>
 
+# C# playground
+
+- The .NET Programmer’s Playground
+  - https://www.linqpad.net/
+- GN⁺: LINQPad – .NET 프로그래머를 위한 Playground (linqpad.net)
+  - https://news.hada.io/topic?id=15501&utm_source=discord&utm_medium=bot&utm_campaign=1480
+
 # C#: 공부하기 좋은곳
 
 - https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp (영어; 한국어 번역은 기계번역, 퀄리티 낮음)
