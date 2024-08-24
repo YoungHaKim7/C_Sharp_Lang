@@ -36,6 +36,11 @@ https://learn.microsoft.com/ko-kr/dotnet/api/system.linq?view=net-7.0
 - LinQ 링큐 강의🌯 몰아보기 #12 - 이거 하나면 끝!!! LinQ Basics tutorial | chaems
   - https://youtu.be/5ieU9A8hYP0?si=KMjMkk8sfa-fGQIl
 
+## Advanced C# – LINQ Tutorial | freeCodeCamp.org
+- https://youtu.be/5l2qA3Pc83M?si=Y89OrX5-Yvdko1io
+
+<hr>
+
 # C#의 창시자 & TypeScript 창시자  , 앤더스 헤일즈버그 (Anders Hejlsberg
 
 https://www.csharpstudy.com/Story/Article/2
