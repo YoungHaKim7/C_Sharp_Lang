@@ -38,6 +38,8 @@ https://learn.microsoft.com/ko-kr/dotnet/api/system.linq?view=net-7.0
 
 ## Advanced C# – LINQ Tutorial | freeCodeCamp.org
 - https://youtu.be/5l2qA3Pc83M?si=Y89OrX5-Yvdko1io
+  - MS공식 문서 설명(LINQ)
+    - https://learn.microsoft.com/en-us/dotnet/csharp/linq/
 
 <hr>
 
