@@ -63,6 +63,9 @@ echo "\x09\x09echo \x22}\x22 >> Program.cs" >> Makefile
 
 <hr>
 
+# Advanced C# Programming Course | freeCodeCamp.org
+- https://youtu.be/YT8s-90oDC0?si=kVQeu8pO_ra_wOoh
+
 # Rust for C#/.NET Developers(<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>Tutorial<a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a> eBook🖼💻📖)
 
 https://microsoft.github.io/rust-for-dotnet-devs/latest/
