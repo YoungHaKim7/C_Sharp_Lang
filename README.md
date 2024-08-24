@@ -41,6 +41,36 @@ https://learn.microsoft.com/ko-kr/dotnet/api/system.linq?view=net-7.0
   - MS공식 문서 설명(LINQ)
     - https://learn.microsoft.com/en-us/dotnet/csharp/linq/
 
+- Language-Integrated Query (LINQ) is the name for a set of technologies based on the integration of query capabilities directly into the C# language. Traditionally, queries against data are expressed as simple strings without type checking at compile time or IntelliSense support. Furthermore, you have to learn a different query language for each type of data source: SQL databases, XML documents, various Web services, and so on. With LINQ, a query is a first-class language construct, just like classes, methods, and events.
+  - LINQ(Language-Integrated Query)는 쿼리 기능을 C# 언어로 직접 통합하는 기술 집합의 이름입니다. 기존에는 데이터에 대한 쿼리를 컴파일 시 또는 IntelliSense 지원 시 유형 검사 없이 간단한 문자열로 표현합니다. 또한 SQL 데이터베이스, XML 문서, 다양한 웹 서비스 등 데이터 소스 유형별로 다른 쿼리 언어를 학습해야 합니다. LINQ를 사용하면 쿼리는 클래스, 메서드 및 이벤트와 마찬가지로 일급 언어 구성입니다.
+    
+- When you write queries, the most visible "language-integrated" part of LINQ is the query expression. Query expressions are written in a declarative query syntax. By using query syntax, you perform filtering, ordering, and grouping operations on data sources with a minimum of code. You use the same query expression patterns to query and transform data from any type of data source.
+  - 쿼리를 작성할 때 LINQ에서 가장 눈에 띄는 "언어 통합" 부분은 쿼리 표현식입니다. 쿼리 표현식은 선언적 쿼리 구문으로 작성됩니다. 쿼리 구문을 사용하여 최소 코드로 데이터 소스에 대한 필터링, 순서 지정 및 그룹화 작업을 수행합니다. 동일한 쿼리 표현식 패턴을 사용하여 모든 유형의 데이터 소스에서 데이터를 쿼리하고 변환합니다.
+
+- The following example shows a complete query operation. The complete operation includes creating a data source, defining the query expression, and executing the query in a foreach statement.
+  - 다음 예제는 완전한 쿼리 작업을 보여줍니다. 완전한 작업은 데이터 소스를 만들고, 쿼리 표현식을 정의하고, 각 문에 대해 쿼리를 실행하는 것을 포함합니다.
+
+```cs
+
+// Specify the data source.
+int[] scores = [97, 92, 81, 60];
+
+// Define the query expression.
+IEnumerable<int> scoreQuery =
+    from score in scores
+    where score > 80
+    select score;
+
+// Execute the query.
+foreach (var i in scoreQuery)
+{
+    Console.Write(i + " ");
+}
+
+// Output: 97 92 81
+```
+
+
 <hr>
 
 # C#의 창시자 & TypeScript 창시자  , 앤더스 헤일즈버그 (Anders Hejlsberg
