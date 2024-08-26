@@ -36,6 +36,10 @@ https://learn.microsoft.com/ko-kr/dotnet/api/system.linq?view=net-7.0
 - LinQ 링큐 강의🌯 몰아보기 #12 - 이거 하나면 끝!!! LinQ Basics tutorial | chaems
   - https://youtu.be/5ieU9A8hYP0?si=KMjMkk8sfa-fGQIl
 
+- 유니티 C# 고급문법 LINQ | 게이머TV
+  - https://youtu.be/o3CQgqGRTgY?si=v7DE2yf1pFN4WpTB
+
+
 ## Advanced C# – LINQ Tutorial | freeCodeCamp.org
 - https://youtu.be/5l2qA3Pc83M?si=Y89OrX5-Yvdko1io
   - MS공식 문서 설명(LINQ)
