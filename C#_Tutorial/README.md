@@ -1,3 +1,8 @@
+# link
+- [240919Master Design Patterns & SOLID Principles in C# - Full OOP Course for Beginners | freeCodeCamp.org](https://youtu.be/rylaiB2uH2A?si=QrU0TN4axqdNYG-2)
+
+<hr />
+
 # Linux(Ubuntu)
 
 ```bash
