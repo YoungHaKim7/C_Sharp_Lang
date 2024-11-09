@@ -1,6 +1,8 @@
 # link
 - [240919Master Design Patterns & SOLID Principles in C# - Full OOP Course for Beginners | freeCodeCamp.org](https://youtu.be/rylaiB2uH2A?si=QrU0TN4axqdNYG-2)
 
+- [241109Learn C# Beginner to Advanced FREE Tutorial Course! [12 HOURS - 2024] | Code Monkey](https://youtu.be/qZpMX8Re_2Q?si=V9NSFfheYTmrdGOo)
+
 <hr />
 
 # Linux(Ubuntu)
