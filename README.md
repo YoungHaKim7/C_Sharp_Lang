@@ -17,6 +17,8 @@
 
 # C# Visual Studio Shortcuts(CheatSheet)
 - https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=visualstudio
+- 레딧 숏컷 관련 글
+  - https://www.reddit.com/r/csharp/s/X8LLNMUkAJ
 - 한글 설명서
   - https://learn.microsoft.com/ko-kr/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=visualstudio
 
