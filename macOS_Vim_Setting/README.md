@@ -1,6 +1,6 @@
 # rust_vim_setting/03_VS_Visual_Studio_Vim_Setting/
-
-https://github.com/YoungHaKim7/rust_vim_setting
+- https://github.com/YoungHaKim7/rust_vim_setting/tree/main/03_VS_Visual_Studio_Vim_Setting
+  - https://github.com/YoungHaKim7/rust_vim_setting
 
 <hr>
 
